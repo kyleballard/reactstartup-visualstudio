@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactStartup.VisualStudio.MVC", "ReactStartup.VisualStudio.MVC\ReactStartup.VisualStudio.MVC.csproj", "{F75BCB68-7D93-4BE6-8203-6480C873E29E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactStartup.VisualStudio.Empty", "ReactStartup.VisualStudio.Empty\ReactStartup.VisualStudio.Empty.csproj", "{292F29AE-F527-45C1-A176-9764B85609A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F75BCB68-7D93-4BE6-8203-6480C873E29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F75BCB68-7D93-4BE6-8203-6480C873E29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F75BCB68-7D93-4BE6-8203-6480C873E29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292F29AE-F527-45C1-A176-9764B85609A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292F29AE-F527-45C1-A176-9764B85609A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292F29AE-F527-45C1-A176-9764B85609A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292F29AE-F527-45C1-A176-9764B85609A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
